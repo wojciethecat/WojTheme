@@ -2,7 +2,10 @@
     "name": "wojtheme",
     "displayName": "WojTheme",
     "publisher": "WojNotes",
-    "repository": {},
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/wojciethecat/WojTheme"
+    },
     "description": "WojTheme",
     "icon": "icons/icon.png",
     "version": "1.0.1",

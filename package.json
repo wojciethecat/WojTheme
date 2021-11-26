@@ -1,0 +1,24 @@
+{
+    "name": "wojtheme",
+    "displayName": "WojTheme",
+    "publisher": "WojNotes",
+    "repository": {},
+    "description": "WojTheme",
+    "icon": "icons/icon.png",
+    "version": "1.0.1",
+    "engines": {
+        "vscode": "^1.60.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "WojTheme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/WojTheme-color-theme.json"
+            }
+        ]
+    }
+}

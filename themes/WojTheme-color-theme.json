@@ -28,8 +28,9 @@
         "list.warningForeground": "#a78ad4",
         "gitDecoration.modifiedResourceForeground": "#00ffb3",
 		"activityBarBadge.background": "#9757ff",
-		"extensionButton.prominentBackground": "#9757ff",
-		"tab.activeBorderTop": "#9757ff"
+		"extensionButton.prominentBackground": "#7948c7",
+		"tab.activeBorderTop": "#9757ff",
+		"button.background": "#693ab4"
 	},
 	"tokenColors": [
 		{

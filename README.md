@@ -4,4 +4,4 @@
 
 ## screenshots
 
-[!](https://i.imgur.com/Y6Al9b9.png)
+[](https://i.imgur.com/Y6Al9b9.png)

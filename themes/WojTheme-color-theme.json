@@ -13,8 +13,10 @@
 		"input.placeholderForeground": "#A6A6A6",
 		"menu.background": "#252526",
 		"menu.foreground": "#CCCCCC",
+
+
 		"statusBarItem.remoteForeground": "#FFF",
-		"statusBarItem.remoteBackground": "#16825D",
+		"statusBarItem.remoteBackground": "#5754ff",
 		"ports.iconRunningProcessForeground": "#369432",
 		"sideBarSectionHeader.background": "#0000",
 		"sideBarSectionHeader.border": "#ccc3",
@@ -30,7 +32,7 @@
 		"activityBarBadge.background": "#9757ff",
 		"extensionButton.prominentBackground": "#7948c7",
 		"tab.activeBorderTop": "#9757ff",
-		"button.background": "#693ab4"
+		"button.background": "#693ab4",
 	},
 	"tokenColors": [
 		{

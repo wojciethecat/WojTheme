@@ -8,9 +8,9 @@
     },
     "description": "WojTheme",
     "icon": "icons/icon.png",
-    "version": "1.0.5",
+    "version": "1.0.6",
     "engines": {
-        "vscode": "^1.60.0"
+        "vscode": "^1.40.0"
     },
     "categories": [
         "Themes"
